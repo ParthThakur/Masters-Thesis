@@ -1,0 +1,16 @@
+Training parameters for K-Nearest Neighbours Classifier: 
+	 Training time: 27.35 seconds. 
+	 Training Accuracy: 83.37% 
+-------------------- 
+Training parameters for Random Forest Classifier: 
+	 Training time: 28.74 seconds. 
+	 Training Accuracy: 99.79% 
+-------------------- 
+Training parameters for Deep Learning Classifier: 
+	 Training time: 14.98 seconds. 
+	 Training Accuracy: 98.80% 
+-------------------- 
+Training parameters for CNN Classifier: 
+	 Training time: 114.92 seconds. 
+	 Training Accuracy: 99.96% 
+-------------------- 

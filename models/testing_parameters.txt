@@ -1,0 +1,40 @@
+Testing parameters for K-Nearest Neighbours Classifier: 
+	 Testing time on 3000 samples: 11.98 seconds. 
+	 Accuracy: 76.83% 
+	 Confusion Matrix: 
+		 [[1245  263]
+ [ 432 1060]] 
+	 Precision: 0.80 
+	 Recall: 0.71 
+	 F1 Score: 0.75 
+-------------------- 
+Testing parameters for Random Forest Classifier: 
+	 Testing time on 3000 samples: 12.33 seconds. 
+	 Accuracy: 85.13% 
+	 Confusion Matrix: 
+		 [[1324  184]
+ [ 262 1230]] 
+	 Precision: 0.87 
+	 Recall: 0.82 
+	 F1 Score: 0.85 
+-------------------- 
+Testing parameters for Deep Learning Classifier: 
+	 Testing time on 3000 samples: 2.21 seconds. 
+	 Accuracy: 68.17% 
+	 Confusion Matrix: 
+		 [[ 968  540]
+ [ 415 1077]] 
+	 Precision: 0.67 
+	 Recall: 0.72 
+	 F1 Score: 0.69 
+-------------------- 
+Testing parameters for CNN Classifier: 
+	 Testing time on 3000 samples: 2.20 seconds. 
+	 Accuracy: 95.80% 
+	 Confusion Matrix: 
+		 [[1506    2]
+ [ 124 1368]] 
+	 Precision: 1.00 
+	 Recall: 0.92 
+	 F1 Score: 0.96 
+-------------------- 
